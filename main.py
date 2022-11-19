@@ -1,0 +1,2 @@
+class Alumno:
+    nombre="Test"
